@@ -15,7 +15,11 @@
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
 - **Big Data**: Hadoop, Spark
-- **Cloud Platforms**: [Google Cloud](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg) [Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg)
+- **Cloud Platforms**:
+  <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+  </p>
+- [Google Cloud](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg) [Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg)
 - **Other Tools**: Git, Docker, Jupyter Notebooks
 
 ## Featured Projects
