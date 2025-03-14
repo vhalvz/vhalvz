@@ -1,7 +1,7 @@
 ## About Me
 - 🔭 I’m currently working as a Data Scientist at [Wien Energie](wienenergie.at).
 - 🌱 I’m currently learning advanced machine learning techniques and deep learning frameworks.
-- 📫 How to reach me: [vinzenzhalhammer.com/contact](vinzenz.halhammer.com/contact)
+- 📫 How to reach me: [vinzenzhalhammer.com/contact](vinzenzhalhammer.com/contact)
 - ⚡ Fun fact: I love running, cycling and exploring nature in my free time.
 
 ## Skills
