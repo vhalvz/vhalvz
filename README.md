@@ -1,6 +1,6 @@
 ## About Me
 - 🔭 I’m currently working as a Data Scientist at [Wien Energie](https://wienenergie.at).
-- 🌱 I’m currently exapnding my knowledge into Data Engineering and am learning a lot there.
+- 🌱 I’m currently expanding my knowledge into Data Engineering and am learning a lot there.
 - 📫 How to reach me: [vinzenzhalhammer.com/contact](https://vinzenzhalhammer.com/contact)
 - ⚡ Fun fact: I love running, cycling and exploring nature in my free time.
 
